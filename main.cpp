@@ -83,7 +83,7 @@ static void inputData( std::istream& is )
 				case 3:
 					return;
 				default:
-					throw std::invalid_argument( "please, choose correct menu item" );
+					throw std::invalid_argument( "Please, choose correct menu item" );
 			}
 		}
 		catch( const std::invalid_argument& ex )
