@@ -1,2 +1,1 @@
-# test-repo
-This is a tet repo 
+Calculation battery's and solar panels for day power consumption
