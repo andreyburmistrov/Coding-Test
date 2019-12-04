@@ -1,4 +1,4 @@
-Calculation battery's and solar panels for day power consumption
+Solar Panel Calculator
 
 **Build:** <br>
 clang++ -std=c++17 -o <result_file> <br>
